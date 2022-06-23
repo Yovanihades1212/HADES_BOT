@@ -121,7 +121,7 @@ global.reloadHandler = function () {
     conn.off('group-participants-update', conn.onParticipantsUpdate)
     conn.off('CB:action,,call', conn.onCall)
   }
-  conn.welcome = '┏━━━━━━━━━━━━\n┃──〘 *WELCOME* 〙──\n┃━━━━━━━━━━━━\n┃ *_✨ @user bienvenid@ a_* \n┃ *_@subject ✨_*\n┃\n┃=> *_En este grupo podrás_*\n┃ *_encontrar:_*\n┠⊷ *Amistades 🫂* \n┠⊷ *Desmadre 💃🕺* \n┠⊷ *Relajo 💅* \n┠⊷ *Enemig@s 🥵* :\n┠⊷ *Un Bot Sexy*\n┃\n┃=> *_Puedes solicitar mi lista de_*\n┃ *_comandos con:_*\n┠⊷ *#menu*\n┃\n┃=> *_Aquí tienes la descripción_* \n┃ *_del grupo, léela!!_*\n┃\n\n@desc\n\n┃ \n┃ *_🔰  Disfruta de tu_* \n┃ *_estadía en el grupo  🔰_*  \n┃\n┗━━━━━━━━━━━'
+  conn.welcome = ' ╭━━━━━✯𓆩ֶ፝֟𓆪⁩✯━━━━━╮\n├⇶❖⛩𝗛𝗢𝗟𝗔 @user ⛩❖\n├⇶╭─➤͜͡❍͜͡➣𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃\n├⇶╰➤͜͡❍͜͡➣𝐀𝐋 𝐆𝐑𝐔𝐏𝐎🙌💖\n├━━━━≪✯𓆩ֶ፝֟𓆪⁩✯≫━━━╯\n├⇶@subject \n ├⇶𝐄𝐧 𝐞𝐬𝐭𝐞 𝐠𝐫𝐮𝐩𝐨 𝐀𝐦𝐢𝐬𝐭𝐚𝐝𝐞𝐬🎭\n├⇶𝐏𝐚𝐫𝐚 𝐯𝐞𝐫 𝐦𝐢𝐬 𝐜𝐨𝐦𝐚𝐧𝐝𝐨𝐬💻\n ├⇶𝐩𝐨𝐧 #𝐦𝐞𝐧𝐮👥\n├⇶𝐀𝐪𝐮í 𝐭𝐢𝐞𝐧𝐞𝐬 𝐥𝐚 𝐝𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢ó𝐧👩‍🏫\n╰━━━━━✯𓆩ֶ፝֟𓆪⁩✯━━━━━╯\n╭━━━━━✯𓆩ֶ፝֟𓆪⁩✯━━━━━╮\n@desc\n╰━━━━━✯𓆩ֶ፝֟𓆪⁩✯━━━━━╯\n\n╭━━━━━✯𓆩ֶ፝֟𓆪⁩✯━━━━━╮\n├⇶╭─➤͜͡❍͜͡➣°𝐃𝐢𝐬𝐟𝐫𝐮𝐭𝐚 𝐭𝐮\n├⇶𝐞𝐬𝐭𝐚𝐧𝐜𝐢𝐚 𝐞𝐧 𝐞𝐥 𝐠𝐫𝐮𝐩𝐨🌹🙌\n├⇶╰➤͜͡𝐁𝐎𝐓__𝐇𝐀𝐃𝐄𝐒\n ╰━━━━━✯𓆩ֶ፝֟𓆪⁩✯━━━━━╯ '
   conn.bye = '┏━━━━━━━━━━━━\n┃──〘 *ADIOS* 〙───\n┃━━━━━━━━━━━━\n┃ *_☠ Se fue @user_* \n┃ *_Que dios lo bendiga️_* \n┃ *_Y lo atropelle un tren 😇_*\n┗━━━━━━━━━━'
   conn.spromote = '*@user 𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃𝐎!! 𝐀𝐇𝐎𝐑𝐀 𝐅𝐎𝐑𝐌𝐀𝐒 𝐏𝐀𝐑𝐓𝐄 𝐃𝐄 𝐋𝐎𝐒 𝐀𝐃𝐌𝐈𝐍𝐈𝐒𝐓𝐑𝐀𝐃𝐎𝐑𝐄𝐒 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎*'
   conn.sdemote = '*@user 𝐀𝐇𝐎𝐑𝐀 𝐘𝐀 𝐍𝐎 𝐅𝐎𝐑𝐌𝐀𝐒 𝐏𝐀𝐑𝐓𝐄 𝐃𝐄 𝐋𝐎𝐒 𝐀𝐃𝐌𝐈𝐍𝐈𝐒𝐓𝐑𝐀𝐃𝐎𝐑𝐄𝐒 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎*'
