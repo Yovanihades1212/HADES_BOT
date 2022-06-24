@@ -26,12 +26,11 @@
 ┆> pkg install ffmpeg -y
 ┆> pkg install imagemagick -y
 ┆> termux-setup-storage
-┆> git clone https://github.com/Yovanihades1212/HADES-BOT-MD.git
-┆> cd HADES-BOT
+┆> git clone https://github.com/Yovanihades1212/HADES_BOT.git
+┆> cd HADES_BOT
 ┆> npm install
-┆> pkg install yarn
+┆> npm install -g npm@8.7.0
 ┆> npm update
-┆> yarn
 ┆> npm start
 ```
 ### `NOTAS`
