@@ -57,6 +57,8 @@ el comando #actualizar para que se actualicen los datos
 de esa cantidad el Bot empieza a ir 
 excesivamente lento (depende del WhatsApp igual)
 ```
+### `WHATSAPP "BETA" (MULTI-DEVICE)`
+> #### *鈿狅笍 HADES_BOT no es, ni sera compatible con la versi贸n "beta" de WhatsApp (Multi-Dispositivo - Multi-Device), por lo que se sugiere usar los siguientes WhatsApps*
 > ##### WhatsApp recomendado por el creador del Bot
 * [Opción 1 - WhatsApp Recomendado](https://www.mediafire.com/file/gers3gbbubpshji/%C3%8A%C2%99%C3%A1%C2%B4%C2%9Cs%C3%8D%C2%A8%C3%89%C2%AA%C3%8D%C2%A7%C3%89%C2%B4%C3%A1%C2%B7%C2%A8%C3%A1%C2%B4%C2%87%C3%8D%C2%A3s%C3%A1%C2%B7%C2%A1s%C3%8D%C2%A6+%C3%A2%C2%A9%C2%945_Secundario.apk/file).
 * [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/444tuerbs99y1d2/%25E2%2598%25A3%25EF%25B8%258F%25E2%259F%25BF%25CD%25A1%25CD%259C%25E2%259C%25AA%25F0%259D%2590%258B%25CD%25A5%25F0%259D%2590%259E%25F0%259D%2590%259A%25E1%25B7%25A7%25F0%259D%2590%259D%25E2%25B7%25A8%25F0%259D%2590%259E%25F0%259D%2590%25AB%25F0%2596%25A3%2594%25F0%259D%2590%2582%25F0%259D%2590%25A8%25E1%25B7%2597%25F0%259D%2590%25A6%25E1%25B7%25A2%25F0%259D%2590%259A%25CD%25A5%25F0%259D%2590%25A7%25E1%25B7%25A4%25F0%259D%2590%259D%25E1%25B7%25A4%25F0%259D%2590%25A8%25E2%2598%2598%25EF%25B8%258E.apk/file).
