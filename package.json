@@ -35,7 +35,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.2",
+    "@adiwajshing/baileys": "^3.5.3",
     "@bochilteam/scraper": "^0.0.7",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "awesome-phonenumber": "^2.54.0",
